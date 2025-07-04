@@ -23,6 +23,13 @@ This application automates weekly payroll generation, employee management, and h
 
 ---
 
+## 🖼️ System Flow
+
+Below is a screenshot of the system flow:
+
+(images/Flow.png)
+
+
 ## ✅ Features
 
 - 👤 **Create Employee Records**
