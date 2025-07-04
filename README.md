@@ -23,11 +23,11 @@ This application automates weekly payroll generation, employee management, and h
 
 ---
 
-## 🖼️ System Flow
+## 🧭 Flow Diagram
 
-Below is a screenshot of the system flow:
+Below is the system's high-level workflow:
 
-(images/Flow.png)
+![Flow Diagram](images/Flow.png)
 
 
 ## ✅ Features
